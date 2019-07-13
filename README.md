@@ -22,8 +22,10 @@ Pinout:
 
 ![lolin32-oled-pinout](https://raw.githubusercontent.com/aliustaoglu/espruino-examples/master/pics/lolin32-oled-pinout.jpg)
 
-|SCL|	GPIO 5 | (D1)|
-|SDA|	GPIO 4 | (D2)|
+| Oled | ESP          |
+| ---- | ------------ |
+| SCL  | GPIO 5 (D1)  |
+| SDA  | GPIO 4 (D2)  |
 
 ![esp8266-wemos-lolin32](https://raw.githubusercontent.com/aliustaoglu/espruino-examples/master/pics/esp8266-wemos-lolin32.png)
 
