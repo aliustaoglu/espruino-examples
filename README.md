@@ -20,7 +20,7 @@ var g = require('SSD1306').connect(I2C1, function start() {
 
 Pinout:
 
-![lolin32-oled-pinout](https://raw.githubusercontent.com/aliustaoglu/espruino-examples/master/pics/lolin32-oled-pinout.png)
+![lolin32-oled-pinout](https://raw.githubusercontent.com/aliustaoglu/espruino-examples/master/pics/lolin32-oled-pinout.jpg)
 
 |SCL|	GPIO 5 | (D1)|
 |SDA|	GPIO 4 | (D2)|
